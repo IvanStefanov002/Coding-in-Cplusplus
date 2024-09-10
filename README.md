@@ -1,2 +1,2 @@
-# Coding-in-C-
+# Coding-in-C++
 A repository dedicated in C++ coding
